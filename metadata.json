@@ -1,0 +1,6 @@
+{
+  "name": "Finanku",
+  "description": "Aplikasi pencatat keuangan pribadi dengan analisis dan grafik pengeluaran bulanan yang informatif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
